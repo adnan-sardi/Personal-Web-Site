@@ -16,9 +16,9 @@ The portfolio section showcases some of my recent projects. Each project is disp
 ### Blog
 The blog section features some of my recent writing. Each post is displayed with a title, image and a link to view the full article.
 In particular, I use my blog to share my passion and hobbies like:
--Reading
--Work out & healthy food
--Volunteer
+- Reading
+- Work out & healthy food
+- Volunteer
 
 ### About
 The About Me section provides a more detailed overview of who I am and what I do. It includes information on my skills and background.
